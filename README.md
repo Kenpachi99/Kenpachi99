@@ -4,9 +4,8 @@
 <!--
 **Kenpachi99/Kenpachi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hello World!
 
-- 🔭 I’m currently working on finance realted Data Science projects
+- 🔭 I’m currently pursuing Master's in Data Science from Stony Brook University
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on data modelling projects
 - 🤔 I’m looking for help with software development
