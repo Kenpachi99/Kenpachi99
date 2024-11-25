@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/new_york_skyline.jpg" height="300"/>
 </p>
-<h1 align="center">Hi There !👋
+<h1 align="center">Hi There !👋 I'm Tushar Panthri
 <h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
@@ -70,13 +70,13 @@
       alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      height="40" /> </a> <a href="https://www.aws.training/certification" target="_blank" rel="noreferrer"> <img
       src="https://i0.wp.com/amach.com/wp-content/uploads/2023/10/aww-logo-blue-background.png?resize=1024%2C1024&ssl=1" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      height="40" /> </a> <a href="https://www.aws.training/certification" target="_blank"
     rel="noreferrer"> <img
-      src=""
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+      src="https://tecbrix.com/wp-content/uploads/2022/05/kubernetes.png"
+      alt="javascript" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscr4Nfid4bYxU8cUAlwpcvGLX6LgilTOOng&s" alt="kotlin" width="40" height="40" />
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
@@ -84,13 +84,13 @@
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
+      alt="pandas" width="40" height="40" /> </a> <a href="jenkins.io" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
+      src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
+      width="40" height="40" /> </a> <a href="streamlit.io" target="_blank" rel="noreferrer"> <img
+      src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmxbvuil5vq7ekv6j44o.jpg"
+      alt="react" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="sass" width="40"
       height="40" /> </a> </p>
