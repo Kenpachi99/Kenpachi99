@@ -1,12 +1,15 @@
+<!--
 ## HI THERE !👋 私の世界へようこそ !!
-
+-->
 <!--
 ![hd-photography-mount-fuji-japan_1038422-19814](https://github.com/user-attachments/assets/cf19105d-0027-4f82-89b2-e2f3b8ae01c1)
 -->
 
 <p align="center">
-  <img src="Kenpachi99/resized_image_github_cover.jpg" height="200"/>
+  <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_image_github_cover.jpg" height="200"/>
 </p>
+<h1 align="center">HI THERE !👋 , 私の世界へようこそ !!</h1>
+<h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
 -->
