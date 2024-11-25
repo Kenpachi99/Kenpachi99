@@ -9,28 +9,21 @@
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/new_york_skyline.jpg" height="300"/>
 </p>
 <h1 align="center">Hi There !👋 I'm Tushar
-<h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
+<h3 align="center">Data Engineer | Aspiring Software Engineer | Data Scientist </h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
 -->
-<h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 <!--
 **Kenpachi99/Kenpachi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ##ABOUT ME
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
-
-- 🔭 I’m currently pursuing Master's in Data Science from Stony Brook University
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on data modelling projects
-- 🤔 I’m looking for help with software development
-- 💬 Ask me about data visualization
-- 📫 How to reach me: tushar.panthri@stonybrook.edu
-- 😄 Pronouns: He/Him
-  ⚡ Fun fact: I love trekking
+🔭 I'm a Masters student in Data Science from Stony Brook University
+🌱 I’m continually exploring advancements in data science and honing my problem-solving skills.
+👯 I’m looking to collaborate on any project that aligns with my interests and expertise
+📫 How to reach me: [tushar.panthri@stonybrook.edu](mailto:tushar.panthri@stonybrook.edu)
+⚡ Fun fact about me: I love trekking, learning Japanese, and playing cricket🏏 whenever I get some free time!
 
 
 <h3 align="left">Connect with me:</h3>
@@ -90,3 +83,7 @@ I'm a Mechatronics and Embedded Systems student who is passionate about Embedded
       alt="react" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="sass" width="40"
       height="40" /> </a> </p>
+      
+If you have any questions or just want to say hi, feel free to reach out.
+
+Have a great day!😄
