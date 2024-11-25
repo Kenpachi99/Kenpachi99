@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="[Kenpachi99/resized_image_github_cover.jpg](https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_image_github_cover.jpg)" height="200"/>
+  <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_image_github_cover.jpg" height="200"/>
 </p>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
