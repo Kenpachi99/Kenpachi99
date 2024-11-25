@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_image_github_cover.jpg](https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_fuji.jpg)" height="200"/>
+  <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_fuji.jpg" height="200"/>
 </p>
 <h1 align="center">HI THERE !👋 , 私の世界へようこそ !!</h1>
 <h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
