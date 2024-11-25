@@ -23,7 +23,7 @@
 - 🌱 I’m continually exploring advancements in data science and honing my problem-solving skills.
 - 👯 I’m looking to collaborate on any project that aligns with my interests and expertise
 - 📫 How to reach me: [tushar.panthri@stonybrook.edu](mailto:tushar.panthri@stonybrook.edu)
-- ⚡ Fun fact about me: I love trekking, learning Japanese, and playing cricket🏏 whenever I get some free time!
+- ⚡ Fun fact about me: I love trekking, learning Japanese, and playing cricket🏏!
 
 
 <h3 align="left">CONNECT WITH ME</h3>
