@@ -8,16 +8,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/new_york_skyline.jpg" height="300"/>
 </p>
-<h1 align="center">Hi There !👋 I'm Tushar Panthri
+<h1 align="center">Hi There !👋 I'm Tushar
 <h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
 -->
-
+<h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 <!--
 **Kenpachi99/Kenpachi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
+<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
+
+I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
 
 - 🔭 I’m currently pursuing Master's in Data Science from Stony Brook University
 - 🌱 I’m currently learning Next.js
@@ -31,13 +35,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/tushar-panthri-963ab814a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      alt="Tushar Panthri" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anime_art007/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
@@ -84,7 +85,7 @@
       src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="streamlit.io" target="_blank" rel="noreferrer"> <img
+      width="40" height="40" /> </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img
       src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftmxbvuil5vq7ekv6j44o.jpg"
       alt="react" width="40" height="40" /> </a> <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="sass" width="40"
