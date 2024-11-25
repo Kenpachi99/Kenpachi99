@@ -54,7 +54,7 @@
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://www.postgresql.org/media/img/about/press/elephant.png"
       alt="android" width="40" height="40" /> </a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
