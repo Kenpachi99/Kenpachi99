@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/new_york_skyline.jpg" height="300"/>
 </p>
-<h1 align="center">Hi There !👋 , 私の世界へようこそ !!</h1>
+<h1 align="center">Hi There !👋
 <h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
@@ -50,6 +50,9 @@
 
 <br>
 
+
+
+
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://www.postgresql.org/media/img/about/press/elephant.png"
@@ -66,12 +69,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="illustrator" width="40"
       height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
+      src="https://i0.wp.com/amach.com/wp-content/uploads/2023/10/aww-logo-blue-background.png?resize=1024%2C1024&ssl=1" alt="java" width="40"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src=""
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
   </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
