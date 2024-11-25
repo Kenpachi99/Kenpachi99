@@ -19,11 +19,11 @@
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h3 align="left"> ABOUT ME </h3>
 
 
-🔭 I'm a Masters student in Data Science from Stony Brook University
-🌱 I’m continually exploring advancements in data science and honing my problem-solving skills.
-👯 I’m looking to collaborate on any project that aligns with my interests and expertise
-📫 How to reach me: [tushar.panthri@stonybrook.edu](mailto:tushar.panthri@stonybrook.edu)
-⚡ Fun fact about me: I love trekking, learning Japanese, and playing cricket🏏 whenever I get some free time!
+- 🔭 I'm a Masters student in Data Science from Stony Brook University
+- 🌱 I’m continually exploring advancements in data science and honing my problem-solving skills.
+- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise
+- 📫 How to reach me: [tushar.panthri@stonybrook.edu](mailto:tushar.panthri@stonybrook.edu)
+- ⚡ Fun fact about me: I love trekking, learning Japanese, and playing cricket🏏 whenever I get some free time!
 
 
 <h3 align="left">Connect with me:</h3>
@@ -79,6 +79,6 @@
       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="sass" width="40"
       height="40" /> </a> </p>
       
-If you have any questions or just want to say hi, feel free to reach out.
+- If you have any questions or just want to say hi, feel free to reach out.
 
-Have a great day!😄
+- Have a great day!😄
