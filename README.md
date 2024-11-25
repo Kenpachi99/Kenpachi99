@@ -1,5 +1,5 @@
 <!--
-## HI THERE !👋 私の世界へようこそ !!
+## HI THERE !👋 I'm Tushar Panthri
 -->
 <!--
 ![hd-photography-mount-fuji-japan_1038422-19814](https://github.com/user-attachments/assets/cf19105d-0027-4f82-89b2-e2f3b8ae01c1)
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/new_york_skyline.jpg" height="300"/>
 </p>
-<h1 align="center">HI THERE !👋 , 私の世界へようこそ !!</h1>
+<h1 align="center">Hi There !👋 , 私の世界へようこそ !!</h1>
 <h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
 
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
@@ -50,9 +50,9 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      src="https://www.postgresql.org/media/img/about/press/elephant.png"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
