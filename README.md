@@ -7,8 +7,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kenpachi99/Kenpachi99/refs/heads/main/resized_image_github_cover.jpg" height="200"/>
 </p>
-<h1 align="center">HI THERE !👋  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 私の世界へようこそ !!</h1>
-<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h1 align="center">HI THERE !👋 , 私の世界へようこそ !!</h1>
+<h3 align="center">Data Engineer | Data Scientist | Software Engineer</h3>
+
 <!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
 -->
 
