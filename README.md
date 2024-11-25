@@ -16,7 +16,7 @@
 <!--
 **Kenpachi99/Kenpachi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h3 align="center"> ABOUT ME </h3>
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h3 align="left"> ABOUT ME </h3>
 
 
 🔭 I'm a Masters student in Data Science from Stony Brook University
