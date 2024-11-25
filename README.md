@@ -3,7 +3,13 @@
 <!--
 ![hd-photography-mount-fuji-japan_1038422-19814](https://github.com/user-attachments/assets/cf19105d-0027-4f82-89b2-e2f3b8ae01c1)
 -->
-![Cover Image](resized_image_github_cover.jpg)
+
+<p align="center">
+  <img src="Kenpachi99/resized_image_github_cover.jpg" height="200"/>
+</p>
+
+<!--![Cover Image](Kenpachi99/resized_image_github_cover.jpg)
+-->
 
 <!--
 **Kenpachi99/Kenpachi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
