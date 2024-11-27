@@ -42,7 +42,7 @@
 
 
 
-<h3 align="left">TECH STACK</h3>
+<h3 align="left">TECH STACK :</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
       src="https://www.postgresql.org/media/img/about/press/elephant.png"
       alt="android" width="40" height="40" /> </a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
